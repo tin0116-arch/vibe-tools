@@ -1,1 +1,1 @@
-# vibe-tools
+# neon-vibe-scanner
